@@ -16,7 +16,7 @@
 You can _italicize_ characters or **bold** them.
 Header 1 | Header 2
 :--|--:
-Words | 1
+Words | 3
 Words | 2
 Words | 4
 More words | 3
